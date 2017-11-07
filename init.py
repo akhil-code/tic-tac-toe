@@ -66,7 +66,6 @@ def checkGame(marked):
         return True
     return False
 
-
 # mouse callback function
 def clicked(event,x,y,flags,param):
     global counter,img,marked
